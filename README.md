@@ -41,7 +41,9 @@
 
 ###
 
-<img align="right" height="180" src="https://media.giphy.com/media/FspLvJQlQACXu/giphy.gif?cid=790b7611weyuz7jw7857pfqf7pjrmu6piuk06yaf7h9mlknl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/FspLvJQlQACXu/giphy.gif?cid=790b7611weyuz7jw7857pfqf7pjrmu6piuk06yaf7h9mlknl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
@@ -61,8 +63,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 
 
